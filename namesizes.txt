@@ -1,0 +1,46 @@
+Akita 100
+Fukushima 100
+
+saitama 80
+chiba 80
+tokyo 40
+kanagawa 50
+gunma 100
+chiba 100
+
+niigata 100
+toyama 80
+ishikawa 60
+fukui 80
+yamanashi 80
+nagano 100
+gifu 100
+shizuoka 80
+aichi 80
+
+mie 80
+shiga 80
+kyoto 80
+osaka 50
+hyogo 100
+wakayama 70
+
+tottori 55
+shimane 80
+okayama 100
+hiroshima 100
+yamaguchi 80
+
+tokushima 80
+kagawa 55
+ehime 80
+kochi 80
+
+fukuoka 80
+saga 60
+nagasaki 30
+kumamoto 100
+oita 100
+miyazaki 100
+kagoshima 60
+okinawa 100?

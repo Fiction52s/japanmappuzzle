@@ -1,0 +1,8 @@
+map.py - generate the prefectures
+prefecturenames2.py - generate the labels
+jp2model.py - called to generate the labels, do not need to call manually
+countryoutline.py - called to make country_full.obj
+baseplate2.py - creates the preview and the baseplate
+countrysplit.py - allows you to split the baseplate into puzzle pieces.
+
+map -> prefecturenames2 -> countryoutline -> baseplate2 -> countrysplit
